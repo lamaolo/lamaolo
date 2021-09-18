@@ -9,8 +9,11 @@
 - 💬 Ask me about **React, HTML, CSS & Web design**.
 
 - 📫 How to reach me:
-  - 📧 [Send me an email](mailito:lamaolo.m@gmail.com)
+  - 📧 Send me an email: lamaolo.m@gmail.com
   - 🌐 [Contact me on LinkedIn](https://www.linkedin.com/in/lucero-amaolo/)
+<hr>
+
+**Tech stack:**
 
 - 💻 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-FFFFFF?style=flat&logo=HTML5)
@@ -32,6 +35,7 @@
   ![Figma](https://img.shields.io/badge/-Figma-FFFFFF?style=flat&logo=figma)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-FFFFFF?style=flat&logo=adobe-photoshop)
 
+<hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lamaolo&show_icons=true&locale=en&layout=compact&theme=radical" alt="lamaolo" /></p>
 

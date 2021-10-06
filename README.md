@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native & TypeScript**
 
-- 👨‍💻 All of my projects are available on [my GitHub profile](https://github.com/lamaolo?tab=repositories)
+- 👨‍💻 All of my projects are available on [my personal portfolio](https://portfolio-lamaolo.vercel.app/)
 - 💬 Ask me about **React, HTML, CSS & Web design**.
 
 - 📫 How to reach me:

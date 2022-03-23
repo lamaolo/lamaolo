@@ -1,8 +1,6 @@
 <h1 align="center">Hey, I'm Lucero</h1>
 <h3 align="center">A frontend developer from Argentina.</h3>
 
-- 🔭 I’m currently working on [Scrum.io](https://github.com/SHIMER-jpg/PROYECTO-GRUPAL)
-
 - 🌱 I’m currently learning **React Native & TypeScript**
 
 - 👨‍💻 All of my projects are available on [my personal portfolio](https://portfolio-lamaolo.vercel.app/)

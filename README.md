@@ -1,9 +1,8 @@
 <h1 align="center">Hey, I'm Lucero</h1>
 <h3 align="center">A frontend developer from Argentina.</h3>
 
-- 🌱 I’m currently learning **React Native & TypeScript**
+- 🌱 I’m currently learning **React Native & Vue3**
 
-- 👨‍💻 All of my projects are available on [my personal portfolio](https://portfolio-lamaolo.vercel.app/)
 - 💬 Ask me about **React, HTML, CSS & Web design**.
 
 - 📫 How to reach me:
